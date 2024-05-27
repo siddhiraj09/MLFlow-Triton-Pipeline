@@ -1,0 +1,19 @@
+
+name: "mnist_model"
+platform: "onnxruntime_onnx"
+max_batch_size: 1
+input [
+  {
+    name: "onnx::Flatten_0"
+    data_type: TYPE_FP32
+    dims: [ 1, 28, 28 ]
+  }
+]
+output [
+  {
+    name: "8"
+    data_type: TYPE_FP32
+    dims: [ 10 ]
+  }
+]
+        

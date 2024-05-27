@@ -1,0 +1,15 @@
+artifact_uri: file:///home/atharav/integrations/mlruns/0/ba83cf36091f415d858bcf3a592b7340/artifacts
+end_time: 1716792108123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba83cf36091f415d858bcf3a592b7340
+run_name: learned-trout-489
+run_uuid: ba83cf36091f415d858bcf3a592b7340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716792060514
+status: 3
+tags: []
+user_id: atharav

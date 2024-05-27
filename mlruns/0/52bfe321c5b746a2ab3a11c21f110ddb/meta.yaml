@@ -1,0 +1,15 @@
+artifact_uri: file:///home/atharav/integrations/mlruns/0/52bfe321c5b746a2ab3a11c21f110ddb/artifacts
+end_time: 1716791138053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52bfe321c5b746a2ab3a11c21f110ddb
+run_name: peaceful-cat-196
+run_uuid: 52bfe321c5b746a2ab3a11c21f110ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716791063101
+status: 3
+tags: []
+user_id: atharav
