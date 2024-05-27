@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/delli/Downloads/mlflow-triton-MNIST/MLFlow-Triton-Pipeline/mlruns/453917739225861751/79833d3efb014351ba03e579f10d8c1d/artifacts
+end_time: 1716827297332
+entry_point_name: ''
+experiment_id: '453917739225861751'
+lifecycle_stage: active
+run_id: 79833d3efb014351ba03e579f10d8c1d
+run_name: clean-ant-760
+run_uuid: 79833d3efb014351ba03e579f10d8c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716827209949
+status: 3
+tags: []
+user_id: delli

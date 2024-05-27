@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/delli/Downloads/mlflow-triton-MNIST/MLFlow-Triton-Pipeline/mlruns/453917739225861751/204604141e2146758f3a7addb7bf6e3b/artifacts
+end_time: 1716827273682
+entry_point_name: ''
+experiment_id: '453917739225861751'
+lifecycle_stage: active
+run_id: 204604141e2146758f3a7addb7bf6e3b
+run_name: wise-wren-560
+run_uuid: 204604141e2146758f3a7addb7bf6e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716827177817
+status: 3
+tags: []
+user_id: delli

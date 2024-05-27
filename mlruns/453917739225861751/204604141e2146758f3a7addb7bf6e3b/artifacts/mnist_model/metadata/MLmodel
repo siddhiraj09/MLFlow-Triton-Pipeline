@@ -1,0 +1,22 @@
+artifact_path: mnist_model
+flavors:
+  onnx:
+    code: null
+    data: model.onnx
+    onnx_session_options: null
+    onnx_version: 1.16.1
+    providers:
+    - CUDAExecutionProvider
+    - CPUExecutionProvider
+  python_function:
+    data: model.onnx
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.onnx
+    python_version: 3.12.2
+mlflow_version: 2.12.2
+model_size_bytes: 4801207
+model_uuid: f1c05a18a5d14f77a2c7af604bb852eb
+run_id: 204604141e2146758f3a7addb7bf6e3b
+utc_time_created: '2024-05-27 16:27:42.705143'
